@@ -22,9 +22,11 @@ bounding box 생성, 무게중심 좌표 반환
 3. ROI 지정 <br>
 ![image](https://github.com/woodong11/Line_Tracer_AutoCar/assets/91379630/7a2554ba-acc6-4112-a942-c975cc1dbe7a)
 4. HSV를 이용한 Color Masking <br>
-![image](https://github.com/woodong11/Line_Tracer_AutoCar/assets/91379630/97d9264b-0f80-4f96-a801-9e5fb8b5721f)
-5. Bounding box 찾고 Center of gravity 찾기
-![image](https://github.com/woodong11/Line_Tracer_AutoCar/assets/91379630/b48c57ae-2775-47f5-b3ab-090c4184f66a)
+![image](https://github.com/woodong11/Line_Tracer_AutoCar/assets/91379630/8383dde9-cbe7-45cb-9e6c-4c2313ecbaa6)
+
+5. Bounding box 찾고 Center of gravity 찾기 <br>
+![image](https://github.com/woodong11/Line_Tracer_AutoCar/assets/91379630/fe1354ed-3c69-412a-9fea-e4344863b6e9)
+
 6. 무게중심의 x좌표에 따라 steering 조절
 
 
